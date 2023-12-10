@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Roberto A. Abreu-Mendoza"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,10 @@ redirect_from:
 
 Test 
 
-Research
+Origins of Numerical Concepts
 ======
 Research
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[comment]:Example: editing a markdown file for a talk
+[comment]:![Editing a markdown file for a talk](/images/editing-talk.png)
