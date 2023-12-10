@@ -15,5 +15,5 @@ Origins of Numerical Concepts
 Research
 
 
-[comment]:Example: editing a markdown file for a talk
-[comment]:![Editing a markdown file for a talk](/images/editing-talk.png)
+<!--Example: editing a markdown file for a talk
+[comment]: <> ![Editing a markdown file for a talk](/images/editing-talk.png)-->
