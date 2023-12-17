@@ -1,7 +1,7 @@
 ---
 title: "TEST"
 collection: publications
-permalink: /publication/2013AbreuSotoArias.pdf
+permalink: [/publication/2013AbreuSotoArias.pdf](https://github.com/RAbreuM/RAbreuM.github.io/blob/51f8527396b5415cf2db58a1516cc74b9f2ce185/files/2013AbreuSotoArias.pdf)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013
 venue: 'Frontiers in Psychology'
